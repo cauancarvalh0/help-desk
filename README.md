@@ -249,7 +249,7 @@ RewriteRule ^(.*)$ https://%{HTTP_HOST}%{REQUEST_URI} [L,R=301]
 Desenvolvedor web em formação, Caxias, MA
 
 - GitHub: [github.com/cauancarvalh0](https://github.com/cauancarvalh0)
-- LinkedIn: [linkedin.com/in/cauancarvalho0](https://www.linkedin.com/in/cauancarvalh0)
+- LinkedIn: [linkedin.com/in/cauancarvalh0](https://www.linkedin.com/in/cauancarvalh0)
 - Portfólio: [cauancarvalho.vercel.app](https://cauancarvalho.vercel.app)
 - E-mail: [cauancarvalho004@gmail.com](mailto:cauancarvalho004@gmail.com)
 
