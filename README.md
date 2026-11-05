@@ -10,7 +10,7 @@
 [![JavaScript](https://img.shields.io/badge/JavaScript-ES6-F7DF1E?style=flat-square&logo=javascript&logoColor=black)](https://developer.mozilla.org/docs/Web/JavaScript)
 [![Git](https://img.shields.io/badge/Git-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/)
 
-[Acessar a demonstração online](https://COLE-AQUI-O-LINK-DO-SEU-SITE)
+[Acessar a demonstração online](https://help-desk.infinityfree.io)
 
 </div>
 
@@ -52,7 +52,7 @@ O projeto foi construído sem frameworks, para demonstrar domínio dos fundament
 
 | Item | Informação |
 |---|---|
-| Aplicação online | [COLE-AQUI-O-LINK-DO-SEU-SITE](https://COLE-AQUI-O-LINK-DO-SEU-SITE) |
+| Aplicação online |(https://help-desk.infinityfree.io) |
 | Hospedagem | InfinityFree, com HTTPS ativo |
 | Acesso | Cadastro livre. Use a opção **Cadastre-se** para criar uma conta de usuário de teste. |
 
